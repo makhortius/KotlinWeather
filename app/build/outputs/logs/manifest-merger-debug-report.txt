@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\b964482b99f117f71ae176b563107f10\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\0fe85db7736988b6f5fac77d0b20d09f\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c8301fe945cf092f81d64bc3713cc487\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\8b2dba56511f85fb139995bf7375f76d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c60617c607b6f12fd220e8b79a3d533a\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\0ce8c3d8a2cac935e663ba5822adbe31\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\55a20349d81c9e8a55b28a5a96352a85\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\cce95b129d48cb61625dfa6e6b1d1f17\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\3d56c81344525d0bb2d66f107a3086d2\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\1dfa7a2d6c3b4388c069dd8fc59cc7f7\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\101249957c8e1b54e7a643e834379933\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\06b3b9d3bec50669b3ffaf9be183c946\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\024e50bba61c97978c0fa0a6e7911540\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\15c16297c519a5894d7590b376e32374\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\8f9607317fc60a8c3f0df16d930fad40\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ec9327848e597ed2f7a0a4eca8526450\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\86a815bf02e9e802f5d7a8bdfe6af534\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\f3d7e92af5f75aa55647e819fed8d45f\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\7f39fdb27a926c924ddb331747a23d25\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\637e922681ecf9581fa2965b145458e0\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c254aec354299651904d971df5b0ae0a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ba5b10af58f62c5ba948b8911e9d000a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\e2ec1c5f6193da71426acca821c2d104\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\e6921a2cb2679d176d40e3177daac079\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\cae2abde38bd25869eb1e0a7cad3575a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\b964482b99f117f71ae176b563107f10\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\b964482b99f117f71ae176b563107f10\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ec9327848e597ed2f7a0a4eca8526450\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ec9327848e597ed2f7a0a4eca8526450\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\637e922681ecf9581fa2965b145458e0\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\637e922681ecf9581fa2965b145458e0\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ec9327848e597ed2f7a0a4eca8526450\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.kotlinweather.MainActivity
+ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\b964482b99f117f71ae176b563107f10\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\b964482b99f117f71ae176b563107f10\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\0fe85db7736988b6f5fac77d0b20d09f\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\0fe85db7736988b6f5fac77d0b20d09f\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c8301fe945cf092f81d64bc3713cc487\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c8301fe945cf092f81d64bc3713cc487\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\8b2dba56511f85fb139995bf7375f76d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\8b2dba56511f85fb139995bf7375f76d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c60617c607b6f12fd220e8b79a3d533a\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c60617c607b6f12fd220e8b79a3d533a\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\0ce8c3d8a2cac935e663ba5822adbe31\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\0ce8c3d8a2cac935e663ba5822adbe31\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\55a20349d81c9e8a55b28a5a96352a85\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\55a20349d81c9e8a55b28a5a96352a85\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\cce95b129d48cb61625dfa6e6b1d1f17\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\cce95b129d48cb61625dfa6e6b1d1f17\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\3d56c81344525d0bb2d66f107a3086d2\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\3d56c81344525d0bb2d66f107a3086d2\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\1dfa7a2d6c3b4388c069dd8fc59cc7f7\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\1dfa7a2d6c3b4388c069dd8fc59cc7f7\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\101249957c8e1b54e7a643e834379933\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\101249957c8e1b54e7a643e834379933\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\06b3b9d3bec50669b3ffaf9be183c946\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\06b3b9d3bec50669b3ffaf9be183c946\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\024e50bba61c97978c0fa0a6e7911540\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\024e50bba61c97978c0fa0a6e7911540\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\15c16297c519a5894d7590b376e32374\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\15c16297c519a5894d7590b376e32374\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\8f9607317fc60a8c3f0df16d930fad40\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\8f9607317fc60a8c3f0df16d930fad40\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ec9327848e597ed2f7a0a4eca8526450\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ec9327848e597ed2f7a0a4eca8526450\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\86a815bf02e9e802f5d7a8bdfe6af534\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\86a815bf02e9e802f5d7a8bdfe6af534\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\f3d7e92af5f75aa55647e819fed8d45f\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\f3d7e92af5f75aa55647e819fed8d45f\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\7f39fdb27a926c924ddb331747a23d25\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\7f39fdb27a926c924ddb331747a23d25\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\637e922681ecf9581fa2965b145458e0\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\637e922681ecf9581fa2965b145458e0\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c254aec354299651904d971df5b0ae0a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\c254aec354299651904d971df5b0ae0a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ba5b10af58f62c5ba948b8911e9d000a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\ba5b10af58f62c5ba948b8911e9d000a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\e2ec1c5f6193da71426acca821c2d104\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\e2ec1c5f6193da71426acca821c2d104\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\e6921a2cb2679d176d40e3177daac079\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\e6921a2cb2679d176d40e3177daac079\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\cae2abde38bd25869eb1e0a7cad3575a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dimon\.gradle\caches\transforms-2\files-2.1\cae2abde38bd25869eb1e0a7cad3575a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Kotlin\KotlinWeather\app\src\main\AndroidManifest.xml
