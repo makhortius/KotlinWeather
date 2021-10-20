@@ -81,10 +81,10 @@ class MainFragment : Fragment() {
             }
             is AppState.Error -> {
                 mainFragmentLoadingLayout.visibility = View.GONE
-                Snackbar
-                    .make(binding.mainFragmentFAB, getString(R.string.error), Snackbar.LENGTH_INDEFINITE)
-                    .setAction(getString(R.string.reload)) { viewModel.getWeatherFromLocalSourceRus() }
-                    .show()
+
+                mainFragmentFAB.showSnackBar(getString(R.string.error), getString(R.string.reload)) {
+                    viewModel.getWeatherFromLocalSourceRus()
+                }
             }
         }
     }
