@@ -12,6 +12,7 @@ import java.net.URL
 import java.util.stream.Collectors
 import javax.net.ssl.HttpsURLConnection
 
+
 object WeatherLoader {
     fun loadWeather(lat: Double, lon: Double): WeatherDTO? {
         try {
@@ -22,7 +23,7 @@ object WeatherLoader {
                 urlConnection = uri.openConnection() as HttpsURLConnection
                 urlConnection.requestMethod = "GET"
                 urlConnection.addRequestProperty(
-                    "X-Yandex-API-Key", "85e6f7db-2843-4e3c-a46b-5d2599723bcb"
+                    "X-Yandex-API-Key", "7a436743-4c9e-415e-9edc-cc6b53f7c987"
                 )
                 urlConnection.readTimeout = 10000
                 val bufferedReader = BufferedReader(InputStreamReader(urlConnection.inputStream))

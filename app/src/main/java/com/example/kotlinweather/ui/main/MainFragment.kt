@@ -9,6 +9,7 @@ import com.google.android.material.snackbar.Snackbar
 import com.example.kotlinweather.AppState
 import com.example.kotlinweather.R
 import com.example.kotlinweather.databinding.MainFragmentBinding
+import com.example.kotlinweather.experiments.showSnackBar
 import com.example.kotlinweather.model.entities.Weather
 import com.example.kotlinweather.ui.adapters.MainFragmentAdapter
 import com.example.kotlinweather.ui.details.DetailsFragment
@@ -97,4 +98,3 @@ class MainFragment : Fragment() {
         fun newInstance() = MainFragment()
     }
 }
-
