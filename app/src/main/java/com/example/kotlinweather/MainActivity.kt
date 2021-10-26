@@ -15,4 +15,16 @@ class MainActivity : AppCompatActivity() {
                 .commitNow()
         }
     }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.container, ThreadsFragment.newInstance())
+            .commitNow()
+        return true
+    }
 }

@@ -1,11 +1,34 @@
 package com.example.kotlinweather.model.repository
 
+import com.example.kotlinweather.model.WeatherLoader
+import com.example.kotlinweather.model.entities.City
 import com.example.kotlinweather.model.entities.Weather
-import com.example.kotlinweather.model.entities.getRussianCities
-import com.example.kotlinweather.model.entities.getWorldCities
 
 class RepositoryImpl : Repository {
-    override fun getWeatherFromServer() = Weather()
-    override fun getWeatherFromLocalStorageRus() = getRussianCities()
-    override fun getWeatherFromLocalStorageWorld() = getWorldCities()
+    override fun getWeatherFromServer(lat: Double, lng: Double ): Weather {
+        val dto = WeatherRepo.api.getWeather(lat, lng).execute().body()
+        /*val dto = WeatherRepo.api.getWeather(lat, lng).enqueue(object : Callback<WeatherDTO> {
+            override fun onResponse(call: Call<WeatherDTO>, response: Response<WeatherDTO>) {
+                TODO("Not yet implemented")
+                if(response.isSuccessful) {
+                    ///
+                } else {
+                    //....
+                }
+            }
+
+            override fun onFailure(call: Call<WeatherDTO>, t: Throwable) {
+                TODO("Not yet implemented")
+            }
+        })*/
+        return Weather(
+            temperature = dto?.fact?.temp ?: 0,
+            feelsLike = dto?.fact?.feelsLike ?: 0,
+            condition = dto?.fact?.condition
+        )
+    }
+
+    override fun getWeatherFromLocalStorageRus() = City.getRussianCities()
+
+    override fun getWeatherFromLocalStorageWorld() = City.getWorldCities()
 }
