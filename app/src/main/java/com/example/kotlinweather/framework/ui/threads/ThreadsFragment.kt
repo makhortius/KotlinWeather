@@ -1,4 +1,4 @@
-package com.example.kotlinweather.ui.threads
+package com.example.kotlinweather.framework.ui.threads
 
 
 import android.content.BroadcastReceiver
@@ -7,29 +7,21 @@ import android.content.Context
 import android.content.Intent
 import android.content.IntentFilter
 import android.content.ServiceConnection
-import android.os.Build
 import android.os.Bundle
 import android.os.Handler
 import android.os.HandlerThread
 import android.os.IBinder
-import android.os.Looper
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.annotation.RequiresApi
-import androidx.appcompat.widget.AppCompatTextView
 import androidx.fragment.app.Fragment
-import com.example.kotlinweather.R
 import com.example.kotlinweather.databinding.FragmentThreadsBinding
 import com.example.kotlinweather.services.BoundService
 import com.example.kotlinweather.services.MyForegroundService
 import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.MainScope
-import kotlinx.coroutines.async
 import kotlinx.coroutines.cancel
-import kotlinx.coroutines.launch
 import java.util.*
 import java.util.concurrent.TimeUnit
 

@@ -1,4 +1,4 @@
-package com.example.kotlinweather.ui.history
+package com.example.kotlinweather.framework.ui.history
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

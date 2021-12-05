@@ -1,8 +1,7 @@
 package com.example.kotlinweather.model.repository
 
-import com.example.kotlinweather.model.WeatherLoader
-import com.example.kotlinweather.model.entities.City
-import com.example.kotlinweather.model.entities.Weather
+import com.example.kotlinweather.model.entites.City
+import com.example.kotlinweather.model.entites.Weather
 
 class RepositoryImpl : Repository {
     override fun getWeatherFromServer(lat: Double, lng: Double ): Weather {

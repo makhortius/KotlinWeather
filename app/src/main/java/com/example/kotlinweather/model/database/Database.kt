@@ -2,7 +2,7 @@ package com.example.kotlinweather.model.database
 
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.kotlinweather.App
+import com.example.kotlinweather.framework.App
 
 @androidx.room.Database(
     entities = [

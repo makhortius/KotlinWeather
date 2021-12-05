@@ -1,4 +1,4 @@
-package com.example.kotlinweather.ui.main
+package com.example.kotlinweather.framework.ui.main
 
 import android.content.Context
 import android.os.Bundle
@@ -7,12 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.kotlinweather.AppState
-import com.example.kotlinweather.R
 import com.example.kotlinweather.databinding.MainFragmentBinding
 import com.example.kotlinweather.experiments.showSnackBar
-import com.example.kotlinweather.model.entities.Weather
-import com.example.kotlinweather.ui.adapters.MainFragmentAdapter
-import com.example.kotlinweather.ui.details.DetailsFragment
+import com.example.kotlinweather.model.entites.Weather
+import com.example.kotlinweather.framework.ui.adapters.MainFragmentAdapter
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 private const val dataSetKey = "dataSetKey"

@@ -1,11 +1,10 @@
-package com.example.kotlinweather.ui.adapters
+package com.example.kotlinweather.framework.ui.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.kotlinweather.databinding.ItemHistoryListBinding
-import com.example.kotlinweather.model.entities.Weather
+import com.example.kotlinweather.model.entites.Weather
 
 class HistoryAdapter : RecyclerView.Adapter<HistoryAdapter.RecyclerItemViewHolder>() {
     private var data: List<Weather> = arrayListOf()

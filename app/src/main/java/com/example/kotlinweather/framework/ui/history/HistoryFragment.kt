@@ -1,4 +1,4 @@
-package com.example.kotlinweather.ui.history
+package com.example.kotlinweather.framework.ui.history
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,10 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.kotlinweather.AppState
-import com.example.kotlinweather.R
 import com.example.kotlinweather.databinding.FragmentHistoryBinding
 import com.example.kotlinweather.experiments.showSnackBar
-import com.example.kotlinweather.ui.adapters.HistoryAdapter
+import com.example.kotlinweather.framework.ui.adapters.HistoryAdapter
 import org.koin.android.ext.android.inject
 
 class HistoryFragment : Fragment() {

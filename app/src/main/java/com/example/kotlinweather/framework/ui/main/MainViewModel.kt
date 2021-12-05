@@ -1,4 +1,4 @@
-package com.example.kotlinweather.ui.main
+package com.example.kotlinweather.framework.ui.main
 
 import android.util.Log
 import androidx.lifecycle.*

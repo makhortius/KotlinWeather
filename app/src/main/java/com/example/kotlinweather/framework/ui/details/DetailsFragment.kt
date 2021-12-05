@@ -1,4 +1,4 @@
-package com.example.kotlinweather.ui.details
+package com.example.kotlinweather.framework.ui.details
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,9 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.kotlinweather.AppState
-import com.example.kotlinweather.R
 import com.example.kotlinweather.databinding.DetailsFragmentBinding
-import com.example.kotlinweather.model.entities.Weather
+import com.example.kotlinweather.model.entites.Weather
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class DetailsFragment : Fragment() {

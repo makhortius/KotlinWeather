@@ -1,4 +1,4 @@
-package com.example.kotlinweather.model.entities
+package com.example.kotlinweather.model.entites
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

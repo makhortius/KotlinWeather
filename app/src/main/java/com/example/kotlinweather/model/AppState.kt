@@ -1,4 +1,4 @@
-package com.example.kotlinweather
+package com.example.kotlinweather.model
 
 import com.example.kotlinweather.model.entites.Weather
 

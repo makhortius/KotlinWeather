@@ -5,10 +5,9 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import androidx.fragment.app.Fragment
-import com.example.kotlinweather.ui.details.DetailsFragment
-import com.example.kotlinweather.ui.history.HistoryFragment
-import com.example.kotlinweather.ui.main.MainFragment
-import com.example.kotlinweather.ui.threads.ThreadsFragment
+import com.example.kotlinweather.framework.ui.history.HistoryFragment
+import com.example.kotlinweather.framework.ui.main.MainFragment
+import com.example.kotlinweather.framework.ui.threads.ThreadsFragment
 
 class MainActivity : AppCompatActivity() {
 
